@@ -2,7 +2,7 @@ import streamlit as st
 import matplotlib.pyplot as plt
 import pandas as pd
 
-st.title(" Yerde Emisyon Azaltımı için APU–GPU/PCA Optimizasyon Platformu.")
+st.title(" Ohh shit ninja.")
 
 upload_file = st.file_uploader("Choose a File", type="csv")
 
