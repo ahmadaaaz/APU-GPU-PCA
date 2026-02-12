@@ -7,7 +7,7 @@ st.set_page_config(page_title="APU-GPU Optimizasyon", layout="wide")
 AIRCRAFT_DATABASE = {
     "Orta Gövde (A320/ B737)": {"burn_rate": 120, "gpu_req": 90}, #kg/saat, #kW
     "Geniş Gövde (A350/ B777)": {"burn_rate": 300, "gpu_req": 180},
-    "Küçük Gövde": {"burn_rate": 60, "gpu_req": 45},
+    "Küçük Gövde (bölgesel jet)": {"burn_rate": 60, "gpu_req": 45},
 }
 
 CO2_FACTOR = 3.16
